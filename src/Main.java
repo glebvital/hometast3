@@ -1,6 +1,6 @@
 public class Main{
     public static void main(String[] args) {
-        System.out.println("helo");
+        System.out.println("helo, i am realy glad that you're looking that. So i decided to sing beautiful song. Wachamelaindisama..... Wanabrokdisaout.....Siouot.....Whenamisterbrown");
     }
 }
 //git init == create project
